@@ -17,7 +17,7 @@
     "waifuMode": false,
     "avatar_style": 0,
     "chat_display": 1,
-    "toastr_position": "toast-bottom-right",
+    "toastr_position": "toast-top-center",
     "noShadows": false,
     "chat_width": 50,
     "timer_enabled": true,
